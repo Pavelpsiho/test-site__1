@@ -1,3 +1,3 @@
 # сайт  
 ## Результат вы можете посмотреть тут
-[сайт](https://pavelpsiho.github.io/test_site__1/)
+[сайт](https://pavelpsiho.github.io/test-site__1/)
